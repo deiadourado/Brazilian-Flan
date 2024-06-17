@@ -1,6 +1,8 @@
-<b>Brazilian Flan Repository Description</b>
+<b>Brazilian Flan Repository</b>
 
 This GitHub repository contains the code for a web project that presents the recipe and nutritional characteristics of Brazilian Flan. The project was developed for a college class and uses HTML and CSS to create a user-friendly and informative interface.
+
+<center><img src="https://images2.imgbox.com/a9/a1/7QJYknsu_o.png" alt="Homepage preview">
 
 <b>Features</b>
 
